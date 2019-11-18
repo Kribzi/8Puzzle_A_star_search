@@ -1,2 +1,3 @@
 # 8Puzzle_A_star_search
-A star search used to solve the 8 puzzle.
+This simple code takes a 8 puzzle and attempts to solve it using A* search algorithm.
+
